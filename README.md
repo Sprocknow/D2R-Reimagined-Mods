@@ -49,6 +49,14 @@ Make sure to change tab count to 8, and change the tabsize to 180 for 8 tabs
 
 if you want to do 6-7 tabs just enter the corresponding numbers and use the 142 pixel sprite, i imagine the 180 pixel sprite will work just fine for less tabs aswell, i have not tested that.
 
+Next Up you want to replace the stash folder in this location with the files in my repository {Here](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash180pix)
+
+\Your D2R Install Location\mods\Merged\Merged.mpq\data\hd\global\ui\panel\
+
+![LocationforStashSprites](https://github.com/user-attachments/assets/c9dd5a36-1029-428a-bed6-077d960def3a)
+
+Last up is we need to Hex edit the shared stash file.
+
 
 
 ## Tools
