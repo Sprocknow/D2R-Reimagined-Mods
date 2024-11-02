@@ -29,7 +29,9 @@ My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
 
 ## Text Guide
 
-First up we need to modify the file "bankexpansionlayouthd.json" location should be in \Your D2R install Location\mods\Merged\Merged.mpq\data\global\excel
+First up we need to modify the file "bankexpansionlayouthd.json" location should be in:
+
+\Your D2R install Location\mods\Merged\Merged.mpq\data\global\excel
 
 You will want to edit the file to look like this for 180 Pixels wide tabs and 8 Tabs total:
 
