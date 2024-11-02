@@ -41,7 +41,11 @@ By default for 8 tabs, that line will be:
 
 "textStrings": [ "@personal", "@shared", "@shared", "@shared", "@shared", "@shared", "@shared", "@shared"],
 
+Make sure to change tab count to 8, and change the tabsize to 180 for 8 tabs
+
 ![Filefor8Tabs](https://github.com/user-attachments/assets/3f8ba3b5-9df2-462e-8272-f909982577fb)
+
+if you want to do 6-7 tabs just enter the corresponding numbers and use the 142 pixel sprite, i imagine the 180 pixel sprite will work just fine for less tabs aswell, i have not tested that.
 
 
 
