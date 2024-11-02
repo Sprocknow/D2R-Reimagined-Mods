@@ -4,7 +4,7 @@ This repository contains tools and guides relevant to modding Diablo 2 Resurrect
 
 #### Specific Guides
 
-
+Reference for modifying the stash
 
 **Creating New Stash Tabs in Diablo 2 Resurrected:**
 
@@ -16,6 +16,7 @@ This video looks at how to make a bigger stash in D2R by adding new shared stash
 
 The modded files from HighTechLowIQ shown in this video can be found in HighTechLowIQ's repository, [Here](https://github.com/HighTechLowIQ/ModdingDiablo2Resurrected/blob/master/mods/stashtabs.mpq)
 
+
 My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
 [142 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash142pix)
 [180 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash180pix)
@@ -23,11 +24,9 @@ My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
 ***Credit to the 180 pixel sprite modification to Can of Soup from the discord***
 
 
-
-**Changing the Duration of Assassin Charges [Default of 15s]:**
-
-
 ## Text Guide
+
+**Creating New Stash Tabs in Diablo 2 Resurrected: Re-Imagined Mod**
 
 First up we need to modify the file "bankexpansionlayouthd.json" location should be in:
 
@@ -84,7 +83,7 @@ The personal tab does not show in this file, so there will be 7 repeated codes.
 Save the file, and go load up D2R Re-Imagined and enjoy the extra tabs!
 
 
-
+**Changing the Duration of Assassin Charges [Default of 15s]:**
 
 
 
