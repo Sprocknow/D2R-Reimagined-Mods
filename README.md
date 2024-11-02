@@ -17,8 +17,8 @@ This video looks at how to make a bigger stash in D2R by adding new shared stash
 The modded files from HighTechLowIQ shown in this video can be found in HighTechLowIQ's repository, here: (https://github.com/HighTechLowIQ/ModdingDiablo2Resurrected/blob/master/mods/stashtabs.mpq)
 
 My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
-[142 Pixel] https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash142pix
-[180 Pixel] https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash180pix
+[142 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash142pix)
+[180 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash180pix)
 
 
 
