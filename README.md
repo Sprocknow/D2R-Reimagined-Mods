@@ -3,7 +3,7 @@
 This repository contains tools and guides relevant to modding Diablo 2 Resurrected Re-Imagined.
 
 #### Specific Guides
-********* NOT MY VIDEO CREDIT TO ORIGINAL CREATOR: HighTechLowIQ
+********* NOT MY VIDEO CREDIT TO ORIGINAL CREATOR: HighTechLowIQ **********
 
 **Creating New Stash Tabs in Diablo 2 Resurrected:**
 
