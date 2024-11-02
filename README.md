@@ -82,6 +82,8 @@ The personal tab does not show in this file, so there will be 7 repeated codes.
 
 Save the file, and go load up D2R Re-Imagined and enjoy the extra tabs!
 
+Note:  This CAN be done on a used mod install, but the hex editing will be VERY different and considerbly more difficult. The stash file will be absolutely massive, the the code is NOT REPEATING because its based on the items you have in the stash. I HIGHLY recommend fully emptying the stash out and backing up your entire Merged folder before you attempt modifying an existing mod install for more tabs. But it can be done. Use Care and back up everything as mentioned.
+
 
 **Changing the Duration of Assassin Charges [Default of 15s]:**
 
