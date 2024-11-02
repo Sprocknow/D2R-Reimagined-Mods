@@ -71,11 +71,15 @@ You can see the code shown for the stash tabs here [For Empty tabs] Repeats 3 ti
 
 ![RepeatedCode](https://github.com/user-attachments/assets/54766945-16f5-4fb0-8738-46c1c54ff010)
 
-You want to highlight the code that repeats and then go to the + at the end of the hex file, right click and select pasted selected bytes here:
+You want to highlight the code that repeats and then go to the + at the end of the hex file, right click and select Insert selected bytes here:
 
-You want to paste the section of bytes so theres 8 total repeating sections
+![InsertBytesHere](https://github.com/user-attachments/assets/ec7c7489-36bd-496e-8565-756dcf6f46fe)
 
-![Pasted8totaltabs](https://github.com/user-attachments/assets/e31d52bf-eb52-4d07-874f-2c144585e312)
+You want to paste the section of bytes so theres 7 total repeating sections [for a total of 8 tabs, which includes your one personal tab]
+
+The personal tab does not show in this file, so there will be 7 repeated codes.
+
+![PastedBytes7times](https://github.com/user-attachments/assets/7d7c4631-dd27-45d6-bf48-fa6d774b61c0)
 
 Save the file, and go load up D2R Re-Imagined and enjoy the extra tabs!
 
