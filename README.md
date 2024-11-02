@@ -26,5 +26,6 @@ TODO
 2. [Unity D2R Scene Editor](https://github.com/pairofdocs/Unity-D2R-Scene-Editor)
 3. [DS1Edit](http://paul.siramy.free.fr/_divers/ds1/dl_ds1edit.html)
 4. [CascView](https://www.hiveworkshop.com/threads/ladiks-casc-viewer.331540/)
+5. [Hex Editor](https://hexed.it/)
 
 ## Links
