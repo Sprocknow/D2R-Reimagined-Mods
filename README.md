@@ -55,7 +55,15 @@ Next Up you want to replace the stash folder in the location shown below with th
 
 ![LocationforStashSprites](https://github.com/user-attachments/assets/c9dd5a36-1029-428a-bed6-077d960def3a)
 
-Last up is we need to Hex edit the shared stash file.
+Last up is we need to Hex edit the shared stash file which is in the folder shown below:
+
+your D2R drive location:\Users\Your User name\Saved Games\Diablo II Resurrected\mods\Merged
+
+![Sharedstashlocation](https://github.com/user-attachments/assets/425f33a7-b3cd-4306-98a8-cab582571223)
+
+
+
+
 
 
 
