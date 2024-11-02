@@ -35,6 +35,8 @@ First up we need to modify the file "bankexpansionlayouthd.json" location should
 
 You will want to edit the file to look like this for 180 Pixels wide tabs and 8 Tabs total:
 
+Note: If you want to rename your tabs you can, just remove the @shared, and rename them as shown in my imagine to whatever you want, you must leave the second tab as @shared though or it will cause issues..
+
 ![Filefor8Tabs](https://github.com/user-attachments/assets/3f8ba3b5-9df2-462e-8272-f909982577fb)
 
 
