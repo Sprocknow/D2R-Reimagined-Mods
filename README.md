@@ -20,6 +20,8 @@ My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
 [142 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash142pix)
 [180 Pixel](https://github.com/Sprocknow/D2R-Reimagined-Mods/tree/main/stash180pix)
 
+***Credit to the 180 pixel sprite modification to Can of Soup from the discord***
+
 
 
 **Changing the Duration of Assassin Charges [Default of 15s]:**
