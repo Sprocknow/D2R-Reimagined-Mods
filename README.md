@@ -30,6 +30,7 @@ My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here:
 ## Text Guide
 
 TODO
+![Filefor8Tabs](https://github.com/user-attachments/assets/5db2f878-ab75-488e-8e4d-516be42858d2)
 
 
 
