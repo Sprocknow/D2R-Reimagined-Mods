@@ -14,7 +14,9 @@ This repository contains tools and guides relevant to modding Diablo 2 Resurrect
 
 This video looks at how to make a bigger stash in D2R by adding new shared stash tabs. It involves editing the bankexpansionlayouthd.json, using SpriteEdit to create new stash tabs, and then hex editing the SharedStashSoftCoreV2.d2i.
 
-The modded files shown in this video can be found in HighTechLowIQ's repository, here: (https://github.com/HighTechLowIQ/ModdingDiablo2Resurrected/blob/master/mods/stashtabs.mpq)
+The modded files from HighTechLowIQ shown in this video can be found in HighTechLowIQ's repository, here: (https://github.com/HighTechLowIQ/ModdingDiablo2Resurrected/blob/master/mods/stashtabs.mpq)
+
+My Files for 142 Pixel and 180 Pixel Tabs Can be found in my repository here: 
 
 
 
