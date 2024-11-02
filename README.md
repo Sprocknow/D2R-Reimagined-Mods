@@ -61,6 +61,27 @@ your D2R drive location:\Users\Your User name\Saved Games\Diablo II Resurrected\
 
 ![Sharedstashlocation](https://github.com/user-attachments/assets/425f33a7-b3cd-4306-98a8-cab582571223)
 
+Open the [Hex Editor](https://hexed.it/) and Load the file in the location shown above
+
+This works best with a FRESH Mod install and no items in any previous stash tabs
+
+![FreshStashFileEMPTYSTASH](https://github.com/user-attachments/assets/7f8f74eb-23d1-4288-86ec-1225e942cd99)
+
+You can see the code shown for the stash tabs here [For Empty tabs] Repeats 3 times as shown below:
+
+![RepeatedCode](https://github.com/user-attachments/assets/54766945-16f5-4fb0-8738-46c1c54ff010)
+
+You want to highlight the code that repeats and then go to the + at the end of the hex file, right click and select pasted selected bytes here:
+
+You want to paste the section of bytes so theres 8 total repeating sections
+
+![Pasted8totaltabs](https://github.com/user-attachments/assets/e31d52bf-eb52-4d07-874f-2c144585e312)
+
+Save the file, and go load up D2R Re-Imagined and enjoy the extra tabs!
+
+
+
+
 
 
 
