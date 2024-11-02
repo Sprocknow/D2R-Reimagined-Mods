@@ -88,6 +88,29 @@ Note:  This CAN be done on a used mod install, but the hex editing will be VERY 
 **Changing the Duration of Assassin Charges [Default of 15s]:**
 
 
+To change the duration of the Assassin Charges you need to edit the skills.txt in the location shown below:
+
+Install Drive:\D2R Install Folder\mods\Merged\Merged.mpq\data\global\excel
+
+![2024-11-02 (3)](https://github.com/user-attachments/assets/f2def6f2-badb-4b8f-b607-e7cdea5cd5fc)
+
+Look for your Assassin Skill names to change the durations: Cobra Strike, Blades of Ice, Claws of Thunder, etc...
+
+![2024-11-02 (1)](https://github.com/user-attachments/assets/92abebc5-3496-417b-9b6a-c013ef5123f5)
+
+if you highlight the line, then move the scroll bar to the right, eventually youll see " Duration 375 "  Which is 375 frames or 15 seconds which is the default
+
+I made Mine 800 frames, which is rouhgly 30 seconds, or double, you can change the value to whatever you want, 1 second is 25 frames for reference.
+
+![2024-11-02 (2)](https://github.com/user-attachments/assets/80e72eac-c874-47db-9721-539cf36a7306)
+
+Phoenix Strike is Called Royal Strike in the skills file however, and the duration is closer to the left, without the work Duration in front of it, as shown below.
+
+![2024-11-02](https://github.com/user-attachments/assets/29f9a35d-5965-4804-9dfc-4ac2879f72fc)
+
+Save your file, and enjoy not having to reset your charges for as long as you choose to modify it to!
+
+
 
 
 
