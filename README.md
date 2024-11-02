@@ -33,6 +33,8 @@ First up we need to modify the file "bankexpansionlayouthd.json" location should
 
 \Your D2R install Location\mods\Merged\Merged.mpq\data\global\excel
 
+![FileLocation](https://github.com/user-attachments/assets/70885f58-68f5-4173-9b6b-c563fd4753ff)
+
 You will want to edit the file to look like this for 180 Pixels wide tabs and 8 Tabs total:
 
 Note: If you want to rename your tabs you can, just remove the @shared, and rename them as shown in my imagine to whatever you want, you must leave the second tab as @shared though or it will cause issues..
