@@ -4,7 +4,7 @@ This repository contains tools and guides relevant to modding Diablo 2 Resurrect
 
 #### Specific Guides
 
-Reference for modifying the stash
+Reference for modifying the stash for clean D2R
 
 **Creating New Stash Tabs in Diablo 2 Resurrected:**
 
