@@ -33,7 +33,7 @@ First up we need to modify the file "bankexpansionlayouthd.json" location should
 
 \Your D2R install Location\mods\Merged\Merged.mpq\data\global\excel
 
-![FileLocation](https://github.com/user-attachments/assets/70885f58-68f5-4173-9b6b-c563fd4753ff)
+![FileLocation](https://github.com/user-attachments/assets/99e6669f-b5a1-4584-ac71-e50f78829a9b)
 
 You will want to edit the file to look like this for 180 Pixels wide tabs and 8 Tabs total:
 
